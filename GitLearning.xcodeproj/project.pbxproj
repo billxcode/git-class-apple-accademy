@@ -15,6 +15,7 @@
 		B79D5EC7228BD9FC00F6F9D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B79D5EC5228BD9FC00F6F9D2 /* LaunchScreen.storyboard */; };
 		B79D5ED2228BD9FC00F6F9D2 /* GitLearningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79D5ED1228BD9FC00F6F9D2 /* GitLearningTests.swift */; };
 		B79D5EDD228BD9FC00F6F9D2 /* GitLearningUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79D5EDC228BD9FC00F6F9D2 /* GitLearningUITests.swift */; };
+		B79D5EEB228BE58300F6F9D2 /* LearnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79D5EEA228BE58300F6F9D2 /* LearnerModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B79D5ED8228BD9FC00F6F9D2 /* GitLearningUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitLearningUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B79D5EDC228BD9FC00F6F9D2 /* GitLearningUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLearningUITests.swift; sourceTree = "<group>"; };
 		B79D5EDE228BD9FC00F6F9D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B79D5EEA228BE58300F6F9D2 /* LearnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				B79D5EB9228BD9FA00F6F9D2 /* AppDelegate.swift */,
 				B79D5EBB228BD9FA00F6F9D2 /* ViewController.swift */,
+				B79D5EEA228BE58300F6F9D2 /* LearnerModel.swift */,
 				B79D5EBD228BD9FA00F6F9D2 /* Main.storyboard */,
 				B79D5EC3228BD9FC00F6F9D2 /* Assets.xcassets */,
 				B79D5EC5228BD9FC00F6F9D2 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				B79D5EC2228BD9FA00F6F9D2 /* GitLearning.xcdatamodeld in Sources */,
 				B79D5EBC228BD9FA00F6F9D2 /* ViewController.swift in Sources */,
 				B79D5EBA228BD9FA00F6F9D2 /* AppDelegate.swift in Sources */,
+				B79D5EEB228BE58300F6F9D2 /* LearnerModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
